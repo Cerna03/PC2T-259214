@@ -1,0 +1,2 @@
+ID, Jméno, Přijímení, Rok narození, Obor, Průměr, Známky
+6,Jonáš,Riznik,2001,Telekomunikace,1.0,[1]

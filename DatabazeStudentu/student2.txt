@@ -1,0 +1,2 @@
+ID, Jméno, Přijímení, Rok narození, Obor, Průměr, Známky
+2,Adam,Urban,2000,Kyberbezpečnost,3.5,[5, 2]

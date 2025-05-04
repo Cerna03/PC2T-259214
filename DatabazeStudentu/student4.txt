@@ -1,0 +1,2 @@
+ID, Jméno, Přijímení, Rok narození, Obor, Průměr, Známky
+4,Eva,Boležalová,2005,Kyberbezpečnost,5.0,[5]

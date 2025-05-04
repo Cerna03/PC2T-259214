@@ -1,0 +1,2 @@
+ID, Jméno, Přijímení, Rok narození, Obor, Průměr, Známky
+7,Jana,Nová,2003,Telekomunika,0.0,[]

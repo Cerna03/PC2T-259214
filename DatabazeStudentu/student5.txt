@@ -1,0 +1,2 @@
+ID, Jméno, Přijímení, Rok narození, Obor, Průměr, Známky
+5,Lucie,Chladná,2005,Kyberbezpečnost,3.5,[5, 2]
